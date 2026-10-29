@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/avatar.jpg" width="120" alt="Galvez92"></p>
+<p align="center"><img src="assets/avatar-v3.jpg" width="120" alt="Galvez92"></p>
 
 <h2 align="center">Cristian Galvez</h2>
 <p align="center">Open-source tools for AI video editing, MCP agents and furniture design · Guadalajara</p>
